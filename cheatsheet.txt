@@ -1,0 +1,32 @@
+
+
+# Python cheat sheet
+
+# # Install Poetry first
+# pip install poetry
+
+# # Initialize project (like npm init)
+# poetry init
+
+# # Add dependencies (like npm install --save)
+# poetry add fastapi uvicorn motor
+
+# # Install dependencies (like npm install)
+# poetry install
+
+# # Run (automatically uses virtual environment)
+# poetry run python main.py
+# #save requirements.txt
+# pip freeze > requirements.txt
+
+# # Copy this file to .env and update with your actual values
+
+# # MongoDB Configuration - Update this with your actual MongoDB URI
+# MONGODB_URI=mongodb+srv: //kike-root:kike-root@cluster0.vnbmy.mongodb.net/pythonApp1?retryWrites=true&w=majority&appName=Cluster0
+
+# # FastAPI Configuration  
+# PORT=3000
+# HOST=localhost
+
+# # Environment
+# ENVIRONMENT=development
